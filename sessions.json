@@ -1,0 +1,17 @@
+{
+  "sessions": [
+    {
+      "id": "812571848:812571848",
+      "data": {
+        "questionCounter": 0,
+        "nameOfUser": "Mohammed",
+        "userID": 812571848,
+        "qualityOfProduct": "Very good",
+        "priceOfProduct": 12,
+        "pictureOfProductLink": "https://api.telegram.org/file/bot1887952507:AAGbuOkFNADN1pPCFS8Zk48Y9tLj4EbeoW4/photos/file_11.jpg",
+        "location": "https://www.google.com/maps/place/%D8%B4%D8%B1%D9%83%D8%A9+%D8%A7%D9%84%D8%B1%D8%A7%D8%A6%D8%AF%D8%A9+%D9%84%D9%84%D8%AA%D9%85%D9%88%D9%8A%D9%84+Alraedah+Finance%E2%80%AD/@26.3025656,50.2089701,15z/data=!4m5!3m4!1s0x0:0xfeec351ae972ea76!8m2!3d26.3025914!4d50.2089752",
+        "numberOfReviewsForThisUser": 2
+      }
+    }
+  ]
+}
